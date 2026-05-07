@@ -1,3 +1,10 @@
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pass Rate](https://img.shields.io/badge/Pass%20Rate-89%25-success?style=flat-square)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-18-blue?style=flat-square)
+![Bugs Found](https://img.shields.io/badge/Bugs%20Found-3-red?style=flat-square)
+
 # 🏥 QA Lifecycle Testing — Patient Appointment Booking System
 
 > End-to-end quality assurance project covering API testing, manual test design, SQL validation, bug reporting, and UAT sign-off for a RESTful booking application.
